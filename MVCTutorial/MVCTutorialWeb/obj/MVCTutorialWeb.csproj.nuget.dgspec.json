@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\zacha\\development\\mvc_application\\MVCTutorial\\MVCTutorialWeb\\MVCTutorialWeb.csproj": {}
+    "C:\\mvc_application\\MVCTutorial\\MVCTutorialWeb\\MVCTutorialWeb.csproj": {}
   },
   "projects": {
-    "C:\\Users\\zacha\\development\\mvc_application\\MVCTutorial\\MVCTutorialWeb\\MVCTutorialWeb.csproj": {
+    "C:\\mvc_application\\MVCTutorial\\MVCTutorialWeb\\MVCTutorialWeb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\zacha\\development\\mvc_application\\MVCTutorial\\MVCTutorialWeb\\MVCTutorialWeb.csproj",
+        "projectUniqueName": "C:\\mvc_application\\MVCTutorial\\MVCTutorialWeb\\MVCTutorialWeb.csproj",
         "projectName": "MVCTutorialWeb",
-        "projectPath": "C:\\Users\\zacha\\development\\mvc_application\\MVCTutorial\\MVCTutorialWeb\\MVCTutorialWeb.csproj",
+        "projectPath": "C:\\mvc_application\\MVCTutorial\\MVCTutorialWeb\\MVCTutorialWeb.csproj",
         "packagesPath": "C:\\Users\\zacha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\zacha\\development\\mvc_application\\MVCTutorial\\MVCTutorialWeb\\obj\\",
+        "outputPath": "C:\\mvc_application\\MVCTutorial\\MVCTutorialWeb\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\zacha\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,6 +39,16 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": {
+              "target": "Package",
+              "version": "[6.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.4, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
