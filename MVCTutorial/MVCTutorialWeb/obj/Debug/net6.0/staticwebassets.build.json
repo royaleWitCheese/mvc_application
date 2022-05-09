@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "5kiwMWylk9rrMae+QsIZScxNGeUpuVoMX+roAisrUko=",
+  "Hash": "0mpeu3fw1KOJgu9aCWhyaLvbXuypSydLtSBKALwLa4o=",
   "Source": "MVCTutorialWeb",
   "BasePath": "_content/MVCTutorialWeb",
   "Mode": "Default",
@@ -49,6 +49,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\mvc_application\\MVCTutorial\\MVCTutorialWeb\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\MVCTutorialWeb.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\mvc_application\\MVCTutorial\\MVCTutorialWeb\\wwwroot\\css\\bootswatchTheme.css",
+      "SourceId": "MVCTutorialWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\mvc_application\\MVCTutorial\\MVCTutorialWeb\\wwwroot\\",
+      "BasePath": "_content/MVCTutorialWeb",
+      "RelativePath": "css/bootswatchTheme.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\bootswatchTheme.css"
     },
     {
       "Identity": "C:\\mvc_application\\MVCTutorial\\MVCTutorialWeb\\wwwroot\\css\\site.css",
